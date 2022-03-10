@@ -1,3 +1,0 @@
-Version = 1.0
-Lang = python
-Author = DuBu. (Dubu77)
