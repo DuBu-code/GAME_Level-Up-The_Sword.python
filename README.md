@@ -18,4 +18,19 @@ It's not a great game because I'm not good at coding, but please play it just fo
 This game is a console window game based on Python. The game is played in the console window. You can make better quality games with tkinter or pygame, but I wanted to feel this rudimentary sensibility, so I made the game run on the console window.
 이 게임은 파이썬 기반으로한 콘솔창 게임입니다. 콘솔창에서 게임이 진행됩니다. tkinter나 pygame등으로 더 퀄리티 좋은 게임을 만들 수 있지만 이러한 초보적인 감성을 느끼고 싶어 콘솔창에서 게임이 진행되도록 하였습니다.
 
+[How to install]
+1. Download the desired version
+2. Enter the downloaded folder
+3. Enter ".main"
+4. Enjoy the game with "LevelUpTheSword" shortcut file
+5. If step 4 does not work, run dist/Game_1.0.exe
+6. ENJOY!
+
 [설치 방법]
+1. 원하는 버전 다운로드
+2. 다운로드 한 폴더에 들어가기
+3. ".main"에 들어가기
+4. "LevelUpTheSword" 바로가기 파일으로 게임을 즐기기
+5. 4번이 안된다면 dist/Game_1.0.exe으로 실행
+6. 즐기기!
+
